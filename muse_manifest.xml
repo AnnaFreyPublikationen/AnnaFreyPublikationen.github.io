@@ -1,0 +1,149 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AnnaFreyPublikationen.github.io" resolutions="1x,2x" timestamp="1528478992828">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="book-1-sale.css" crc="347212255" ref="book-1-sale"/>
+    <file name="nomq_book-1-sale.css" crc="186104242" ref="book-1-sale"/>
+    <file name="index.css" crc="231003482" ref="index"/>
+    <file name="nomq_index.css" crc="469910301" ref="index"/>
+    <file name="book-2-sale.css" crc="4224070553" ref="book-2-sale"/>
+    <file name="nomq_book-2-sale.css" crc="3808749747" ref="book-2-sale"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:book-1-sale:book-2-sale"/>
+    <file name="museutils.js" crc="340535759" ref="index:book-1-sale:book-2-sale"/>
+    <file name="whatinput.js" crc="86476730" ref="index:book-1-sale:book-2-sale"/>
+    <file name="museconfig.js" crc="310584261" ref="index:book-1-sale:book-2-sale"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:book-1-sale:book-2-sale"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:book-1-sale:book-2-sale"/>
+    <file name="require.js" crc="7928878" ref="index:book-1-sale:book-2-sale"/>
+  </folder>
+  <folder name="images">
+    <file name="master-favicon.ico" crc="3903758046" ref="index"/>
+    <file name="header-01.png" crc="3923944206" seo="true" ref="index:book-1-sale:book-2-sale">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+    </file>
+    <file name="01.png" crc="3888863177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02.png" crc="3975367874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03.png" crc="3849713596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-1200x350.jpg" crc="3905785162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-2200x350.jpg" crc="78791029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0176x103.png" crc="231679507" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0276x108.png" crc="4282910378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0376x103.png" crc="4053135690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-2.jpg" crc="78791029" seo="true" ref="index:book-2-sale">
+      <caption webpage="index" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+    </file>
+    <file name="0167x90.png" crc="4006243694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0267x95.png" crc="4087473386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0367x90.png" crc="384272256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-1134x234.jpg" crc="312130826" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-2134x235.jpg" crc="3891578573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0157x77.png" crc="4206744483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0257x81.png" crc="3878402233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0357x77.png" crc="3894614694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0145x60.png" crc="4159795125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0245x64.png" crc="167338109" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0345x60.png" crc="377328115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0136x48.png" crc="3920805722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0236x51.png" crc="470634822" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0336x48.png" crc="3766033890" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0140x54.png" crc="162651484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0240x57.png" crc="3906105818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0340x54.png" crc="4092043632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book-2136x237.jpg" crc="3906512621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:book-1-sale:book-2-sale"/>
+    <file name="book-1.jpg" crc="3905785162" seo="true" ref="book-1-sale">
+      <caption webpage="book-1-sale" alt=""/>
+    </file>
+    <file name="book-2134x234.jpg" crc="3891578573" seo="true" ref="book-2-sale">
+      <caption webpage="book-2-sale" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3904122352" seo="true" mt="1528368692263" redirect="true"/>
+  <file name="book-1-sale.html" crc="4025465204" seo="true" mt="1528368079046" redirect="true"/>
+  <file name="book-2-sale.html" crc="75164536" seo="true" mt="1528368088700" redirect="true"/>
+</manifest>
